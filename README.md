@@ -2,4 +2,6 @@
 
 git clone https://github.com/ansalwerfily/alwerfily0.git
 
-cd 
+cd Facebook→Acconts.py
+
+python Facebook→Acconts.py
